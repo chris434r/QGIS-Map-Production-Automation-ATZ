@@ -41,7 +41,7 @@ from .resources import *
 from .ATZ_dialog import ATZDialog
 import os.path
 
-#testing git
+#testing git take 2
 
 class ATZ:
     """QGIS Plugin Implementation."""
