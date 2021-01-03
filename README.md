@@ -1,6 +1,6 @@
 # QGIS-Map-Production-Automation
 
-QGIS plug in which automates the production of Active Travel Zone maps. 
+QGIS plugin which automates the production of Active Travel Zone maps. 
 
 Custom GUI which requires user to input site location co-ordinates and folder location. 
 
