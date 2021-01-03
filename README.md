@@ -2,10 +2,16 @@
 
 QGIS plug in which automates the production of Active Travel Zone maps. 
 
-Output of three maps as image files and as QGIS map document files, which can be amended:
+Output of three maps as image files and as QGIS map document files, are as follows:
 
-"Map 1 - Active Travel Zone.qgs"
+"Map 1 - Active Travel Zone"
 
-"Map 2 - Neighbourhood & Most Important Journey.qgs"
+"Map 2 - Neighbourhood & Most Important Journey"
 
-"Map 3 - Neighbourhood Safety.qgs"
+"Map 3 - Neighbourhood Safety"
+
+All QGIS map documents contain pre loaded extents and symbology files applied, and layers can be added or removed at will.
+
+In addition the map document will contain a pre loaded layout file, so the user can adjust titles or add additional items such as client logo.
+
+The plugin also generates file folders for storing of data and outputs, so all data can easily be found and inspected. 
